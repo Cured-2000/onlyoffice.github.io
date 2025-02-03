@@ -1,0 +1,51 @@
+{
+
+    "guid": "asc.{FFE1F462-1EA2-4391-990D-4CC84940B754}",
+    "name": "Only Office Mailings",
+    "description": "Plugin to mimic the word mailings feature in only office",
+    "offered": "Nick Espinosa",
+    "version": "1.0",
+    "variations":[
+            {			
+                "EditorsSupport": [
+				"word"
+			],
+			"buttons": [
+				{
+					"primary": true,
+					"text": "Print"
+				},
+				{
+					"primary": false,
+					"text": "Cancel"
+				}
+			],
+        
+        "description": "Highlight text and print a envelope based on the selected text",
+        "initData": "",
+        "initDataType": "html",
+        "initOnSelectionChanged": true,
+        "isInsideMode": false,
+        "isModal": true,
+        "isUpdateOleOnResize": false,
+        "isViewer": false,
+        "isVisual": true,
+        "url": "index.html",
+        "store": {
+            "background": {
+                "light": "#F5F5F5",
+                "dark": "#444444"
+                },
+            "categories": ["specAbilities", "work"],
+            "icons": {
+                "light": "resources/store/icons",
+                "dark": "resources/store/icons"
+                },
+            "screenshots": ["resources/store/screenshots/screen_1.png"]
+            }
+        }
+    ]
+
+
+
+}
