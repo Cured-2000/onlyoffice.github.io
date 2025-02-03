@@ -35,7 +35,6 @@
 	{ "name": "cvbuilder", "discussion": "" },
 	{ "name": "onlydraw", "discussion": "" },
 	{ "name": "pomodoro", "discussion": "" },
-	{ "name": "videoembedder", "discussion": "" },
-        { "name": "Only Office Mailings", "discussion": "" }
+	{ "name": "videoembedder", "discussion": "" }
 
 ]
